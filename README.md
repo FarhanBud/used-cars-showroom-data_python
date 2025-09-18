@@ -1,5 +1,3 @@
-# Kita buat file README.md langsung di environment ini berdasarkan draft yang sudah kita susun.
-
 readme_content = """# FarhanBud Garage - Used Cars Admin CRUD System
 
 A simple Python console-based CRUD application for managing a used cars showroom database.  
