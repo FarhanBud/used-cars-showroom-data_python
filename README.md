@@ -1,2 +1,2 @@
-# Used Cars Showroom 
-# Based on Python 
+# Used Cars Showroom Database - Admin side
+# Based on Python Language
