@@ -1,5 +1,3 @@
-readme_content = """# FarhanBud Garage - Used Cars Admin CRUD System
-
 A simple Python console-based CRUD application for managing a used cars showroom database.  
 Built as Capstone Project 1 for JCDSBSDAM29 by **Muhamad Farhan Budiana**.
 
