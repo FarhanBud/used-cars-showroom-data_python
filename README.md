@@ -50,33 +50,6 @@ No extra libraries required (only built-in Python sys).
 
 🚀 How to Run
 
-Clone this repository:
-
-git clone https://github.com/yourusername/farhanbud-garage.git
-cd farhanbud-garage
-
-
-Run the program:
-
-python farhanbud_garage.py
-
-
-Login with default credentials:
-
-Username: admin
-Password: admin123
-
-
-Follow on-screen menus to manage the used car database.
-
-📝 Usage Notes
-
-All data is stored in memory; when you exit the program, changes are lost.
-
-You can change the admin password from the menu (option 5).
-
-After changing password, the program returns to the login screen and you must login with the new password.
-
 📂 Project Structure
 farhanbud-garage/
 ├── usedcars   # Main Python file
