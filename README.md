@@ -36,7 +36,7 @@ Designed as a learning project, the system leverages only fundamental Python pro
 ## 🛠️ Requirements
 
 - Python 3.6 or newer (tested on Python 3.13.5)
-- Works on Windows, Linux, or macOS terminal (tested on Visual Studio Code)
+- Works on Windows, Linux, or macOS terminal (tested on Visual Studio Code Windows 11)
 
 * No extra libraries required (only built-in Python sys).
 
