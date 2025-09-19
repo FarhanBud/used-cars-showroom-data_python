@@ -9,7 +9,7 @@ This project is a console-based administrative management system developed for F
 
 Through a simple text-based menu, administrators can easily view, add, update, and delete car records that are stored in memory as Python data structures. The application also includes a built-in feature to change the administrator password for improved security.
 
-Designed as a learning project, the system leverages only fundamental Python programming concepts—variables, control flow, loops, lists, dictionaries, and functions—making it lightweight, portable, and easy to run in any standard Python environment.
+Designed as a learning project, the system leverages only fundamental Python programming concepts variables, control flow, loops, lists, dictionaries, and functions—making it lightweight, portable, and easy to run in any standard Python environment.
 
 It’s designed with basic Python concepts: 
 
