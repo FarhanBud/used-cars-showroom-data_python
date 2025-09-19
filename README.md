@@ -5,47 +5,39 @@
 
 ## 📖 Description
 
-This project is a text-based admin system for FarhanBud Garage, a fictional used car showroom.
-Admins can login, view, add, update, and delete car records stored in a Python list of dictionaries.
-The app also supports changing the admin password.
-It’s designed with basic Python concepts only:
+This project is a console-based administrative management system developed for FarhanBud Garage, a fictional used car showroom. It provides a streamlined interface that enables administrators to securely log in and manage the showroom’s vehicle database without the need for any external database software.
 
-Variables & data types
+Through a simple text-based menu, administrators can easily view, add, update, and delete car records that are stored in memory as Python data structures. The application also includes a built-in feature to change the administrator password for improved security.
 
-Conditional statements
+Designed as a learning project, the system leverages only fundamental Python programming concepts—variables, control flow, loops, lists, dictionaries, and functions—making it lightweight, portable, and easy to run in any standard Python environment.
 
-Looping
+It’s designed with basic Python concepts: 
 
-Lists & dictionaries
+- Variables & data types
+- Conditional statements
+- Looping
+- Lists & dictionaries
+- Functions
 
-Functions
-
-No external database is used. All data is stored in memory.
+*No external database is used. All data is stored in memory.
 
 ✨ Features
 
-Admin Login (default: username admin, password admin123)
+- Admin Login (default: username admin, password admin123)
+- View all cars in a formatted dynamic table
+- Search car by ID
+- Add new car records
+- Update car records (except the unique ID)
+- Delete car records
+- Change admin password
+- Logout / exit program safely
 
-View all cars in a formatted dynamic table
-
-Search car by ID
-
-Add new car records
-
-Update car records (except the unique ID)
-
-Delete car records
-
-Change admin password
-
-Logout / exit program safely
 
 🛠️ Requirements
 
-Python 3.6 or newer (tested on Python 3.13.5)
+- Python 3.6 or newer (tested on Python 3.13.5)
+- Works on Windows, Linux, or macOS terminal (tested on Visual Studio Code)
 
-Works on Windows, Linux, or macOS terminal
+* No extra libraries required (only built-in Python sys).
 
-No extra libraries required (only built-in Python sys).
-         # This documentation
 
