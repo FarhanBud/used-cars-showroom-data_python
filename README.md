@@ -79,22 +79,6 @@ After changing password, the program returns to the login screen and you must lo
 
 📂 Project Structure
 farhanbud-garage/
-├── farhanbud_garage.py   # Main Python file
+├── usedcars   # Main Python file
 └── README.md             # This documentation
 
-📸 Example Output
-============================================================
-       ===== FARHANBUD GARAGE - USED CARS DATABASE =====
-                 ===== Admin Used Only =====
-============================================================
-   1. Available Used Cars 
-   2. Add New Used Cars 
-   3. Update/Change Available Used Cars Data 
-   4. Delete Data -- (Proceed with Care!)
-   5. Change Admin Password
-   6. Logout Program 
-Select Menu to Start (1-6):
-
-👤 Author
-
-Muhamad Farhan Budiana – GitHub Profile
