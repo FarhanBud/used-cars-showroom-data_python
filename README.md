@@ -42,7 +42,7 @@ Logout / exit program safely
 
 🛠️ Requirements
 
-Python 3.6 or newer
+Python 3.13.5 or Newer
 
 Works on Windows, Linux, or macOS terminal
 
