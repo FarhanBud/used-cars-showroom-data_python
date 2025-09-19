@@ -40,6 +40,16 @@ Designed as a learning project, the system leverages only fundamental Python pro
 
 * No extra libraries required (only built-in Python sys).
 
+## Output Preview (VSCode Terminal)
+
+<img width="506" height="119" alt="image" src="https://github.com/user-attachments/assets/7905e994-6d4e-4f4a-b6b2-e810094fecfe" />
+
+<img width="504" height="273" alt="image" src="https://github.com/user-attachments/assets/fe7dd578-f6eb-4b55-90d4-714cd968be3a" />
+
+<img width="646" height="324" alt="image" src="https://github.com/user-attachments/assets/d259d242-d4bf-4f3b-954d-6fa880f3af32" />
+
+<img width="503" height="74" alt="image" src="https://github.com/user-attachments/assets/99ddfb90-441c-4402-84dc-2beb2ce04ec4" />
+
 
 ## Original Author by Muhamad Farhan Budiana
 
