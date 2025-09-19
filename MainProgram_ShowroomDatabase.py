@@ -18,7 +18,7 @@ admin_password = "admin123"
 # ==== Default Data (List of Dictionaries) ====
 cars = [
     {
-        "id": "MB001",
+        "id": "uc001",
         "brand": "Toyota",
         "model": "GR Supra 3.0 Silver Metal",
         "year": 2020,
@@ -26,15 +26,15 @@ cars = [
         "status": "On Stock"
     },
     {
-        "id": "MB002",
+        "id": "uc002",
         "brand": "Honda",
         "model": "Civic Type R RED Full Package",
         "year": 2018,
         "price": 1200000000,
         "status": "Sold"
-    },
+    }, 
     {
-        "id": "MB003",
+        "id": "uc003",
         "brand": "BMW",
         "model": "M3 G80 Green ",
         "year": 2018,
@@ -42,21 +42,30 @@ cars = [
         "status": "On Stock"
     },
     {
-        "id": "MB004",
+        "id": "uc004",
         "brand": "Hyundai",
-        "model": "Ioniq 5N ",
+        "model": "Ioniq 5N Special Color",
         "year": 2022,
         "price": 900000000,
         "status": "On Stock"
     },
     {
-        "id": "MB005",
+        "id": "uc005",
         "brand": "Nissan",
-        "model": "300ZX 2by2 ",
+        "model": "300ZX 2by2 Red Metallic",
         "year": 1997,
         "price": 350000000,
         "status": "Sold"
-    }
+    },
+    {
+        "id": "uc006",
+        "brand": "Wuling",
+        "model": "Cloud EV White Gold ",
+        "year": 2023,
+        "price": 300000000,
+        "status": "On Stock"
+    },
+    
 ]
 
 # ==== LOGIN FUNCTION ====
@@ -139,7 +148,7 @@ def find_car_by_id(car_id):
     return -1
 
 def show_all_cars():
-    # Displays all cars in a dynamic table format (column widths adjust automatically).
+    # Displays all cars in a table format (column widths adjust auto).
     if not cars:
         print("\n" + RED + "No car data available. Please Try Again.\n" + RESET)
         return
