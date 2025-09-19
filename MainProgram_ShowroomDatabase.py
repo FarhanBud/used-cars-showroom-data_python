@@ -5,6 +5,7 @@
 # Admin CRUD System for FarhanBud Garage
 
 import sys
+print(sys.version)
 
 # ==== Color Codes for Terminal Output ====
 GREEN = "\033[92m"
