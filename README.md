@@ -11,7 +11,7 @@ Through a simple text-based menu, administrators can easily view, add, update, a
 
 Designed as a learning project, the system leverages only fundamental Python programming concepts variables, control flow, loops, lists, dictionaries, and functions—making it lightweight, portable, and easy to run in any standard Python environment.
 
-It’s designed with basic Python concepts: 
+## It’s designed with basic Python concepts: 
 
 - Variables & data types
 - Conditional statements
@@ -21,7 +21,7 @@ It’s designed with basic Python concepts:
 
 *No external database is used. All data is stored in memory.
 
-✨ Features
+## ✨ Features
 
 - Admin Login (default: username admin, password admin123)
 - View all cars in a formatted dynamic table
@@ -33,7 +33,7 @@ It’s designed with basic Python concepts:
 - Logout / exit program safely
 
 
-🛠️ Requirements
+## 🛠️ Requirements
 
 - Python 3.6 or newer (tested on Python 3.13.5)
 - Works on Windows, Linux, or macOS terminal (tested on Visual Studio Code)
