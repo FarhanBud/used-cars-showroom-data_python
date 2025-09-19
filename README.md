@@ -42,16 +42,10 @@ Logout / exit program safely
 
 🛠️ Requirements
 
-Python 3.13.5 or Newer
+Python 3.6 or newer (tested on Python 3.13.5)
 
 Works on Windows, Linux, or macOS terminal
 
 No extra libraries required (only built-in Python sys).
-
-🚀 How to Run
-
-📂 Project Structure
-farhanbud-garage/
-├── usedcars   # Main Python file
-└── README.md             # This documentation
+         # This documentation
 
