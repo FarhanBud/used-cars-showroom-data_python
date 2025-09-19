@@ -41,3 +41,8 @@ It’s designed with basic Python concepts:
 * No extra libraries required (only built-in Python sys).
 
 
+## Original Author by Muhamad Farhan Budiana
+
+All Rights Reserved
+
+
